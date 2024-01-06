@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Isaac and I'm a Research Scientist pasionate on data science</h2>
+<h2 align="left">Hi 👋! I am Isaac, a research scientist with a strong interest in data science.</h2>
 
 ###
 
